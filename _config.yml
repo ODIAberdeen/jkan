@@ -1,6 +1,6 @@
-title: JKAN
-greeting: Welcome to JKAN
-description: A lightweight, backend-free open data portal, powered by Jekyll.
+title: Open Data Aberdeen
+greeting: Welcome to ODIAberdeen's JKAN open data site for Aberdeen
+description: A community-driven Open Data platform for the city
 baseurl: /jkan
 logo: /img/jkan.png
 
