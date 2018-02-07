@@ -1,4 +1,4 @@
-- name: Arts / Culture / History
+- name: Arts / Culture
   logo: /img/categories/arts-culture-history.svg
   logo_credit: ''
   featured: true
@@ -26,7 +26,7 @@
   logo: /img/categories/food.svg
   logo_credit: Creative Stall from the Noun Project
   featured: true
-- name: Health / Human Services
+- name: Health
   logo: /img/categories/health-human-services.svg
   logo_credit: Timothy Miller from the Noun Project
   featured: true
@@ -34,7 +34,7 @@
   logo: /img/categories/parks-recreation.svg
   logo_credit: Pipe Rosas Licht from the Noun Project
   featured: true
-- name: Planning / Built Environment
+- name: Planning
   logo: /img/categories/planning-zoning.svg
   logo_credit: ''
   featured: true
@@ -42,7 +42,7 @@
   logo: /img/categories/public-safety.svg
   logo_credit: Rohith M S from the Noun Project
   featured: true
-- name: Real Estate / Land Records
+- name: City Records
   logo: /img/categories/real-estate-land-records.svg
   logo_credit: ''
   featured: true
