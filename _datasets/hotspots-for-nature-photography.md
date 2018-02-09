@@ -1,7 +1,7 @@
 ---
 schema: default
 title: Hotspots for Nature Photography
-organization: ODI Aberdeen
+organization: Code The City
 notes: 'Part of project HotSpotting at Code The City #12 tourism hack'
 resources:
   - name: 'Nature photo hotspots '
